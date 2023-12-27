@@ -27,7 +27,14 @@ import WebKit
 //    
 //    
 //}
-//Ahora agrego una funcion
+
+
+
+//agrego una funciona que sume dos numeros
+func suma(a:Int, b:Int)->Int{
+    return a+b
+}
+
 
 
 
