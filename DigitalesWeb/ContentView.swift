@@ -27,6 +27,9 @@ import WebKit
 //    
 //    
 //}
+//Ahora agrego una funcion
+
+
 
 struct RefreshableWebView: UIViewRepresentable{
     let urlString: String
